@@ -1,4 +1,4 @@
-# Alcorgas
+# AlcorGas
 
 Este e um app Experimental em Flutter para calular se Compensa Utilizar Álcool ou Gasolina
 
