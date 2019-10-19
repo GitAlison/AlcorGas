@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
     });
 
     return Future.delayed(
-      const Duration(seconds: 40),
+      const Duration(seconds: 1),
       () => {
         setState(() {
           if (res >= 0.7) {
